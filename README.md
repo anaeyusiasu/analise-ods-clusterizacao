@@ -1,7 +1,3 @@
-# analise-ods-clusterizacao
-Análise dos indicadores dos ODS dos municípios brasileiros utilizando técnicas de Clusterização
-
-
 # Análise dos ODS nos Municípios Brasileiros
 Este projeto aplica técnicas de mineração de dados para identificar perfis de sustentabilidade entre os 5.570 municípios brasileiros, considerando seu desempenho nos Objetivos de Desenvolvimento Sustentável (ODS).
 
